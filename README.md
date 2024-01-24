@@ -1,2 +1,2 @@
 # My-Portfolio
-Here to store code of Projects that I have completed
+Here to store my Projects and Dashboards.
