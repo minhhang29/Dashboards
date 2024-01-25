@@ -1,2 +1,2 @@
 # Dashboards
-Here to store my Projects and Dashboards.
+Here to store my Dashboards.
